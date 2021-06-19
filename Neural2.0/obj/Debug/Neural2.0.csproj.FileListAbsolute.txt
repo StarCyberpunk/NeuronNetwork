@@ -1,0 +1,14 @@
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\bin\Debug\Neural2.0.exe.config
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\bin\Debug\Neural2.0.exe
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\bin\Debug\Neural2.0.pdb
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\obj\Debug\Neural2.0.csprojAssemblyReference.cache
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\obj\Debug\Neural2.0.csproj.CoreCompileInputs.cache
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\obj\Debug\Neural2.0.exe
+C:\Users\Год\source\repos\Neural2.0\Neural2.0\obj\Debug\Neural2.0.pdb
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\bin\Debug\Neural2.0.exe.config
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\bin\Debug\Neural2.0.exe
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\bin\Debug\Neural2.0.pdb
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\obj\Debug\Neural2.0.csproj.CoreCompileInputs.cache
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\obj\Debug\Neural2.0.exe
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\obj\Debug\Neural2.0.pdb
+C:\Users\Год\Desktop\Neural2.0\Neural2.0\obj\Debug\Neural2.0.csproj.AssemblyReference.cache
